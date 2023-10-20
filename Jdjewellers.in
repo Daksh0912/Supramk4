@@ -1,0 +1,12 @@
+<!webtyp html>
+<html>
+<head>
+<title>unordere lists</title>
+</head>
+
+<body style="background-color:lavender">
+
+<h1 style="color:blue">stress management</h1>
+
+<u style="color:red">
+ <li>take a walk</li>
