@@ -8,5 +8,9 @@
 
 <h1 style="color:blue">stress management</h1>
 
-<u style="color:red">
+<ul style="color:red">
  <li>take a walk</li>
+</ul>
+
+</body>
+</html>
